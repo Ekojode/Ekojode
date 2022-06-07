@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ekojode 
 - 👀 I’m interested in Mobile application development using flutter and dart
-- 🌱 I’m currently learning Dart and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Dart, Flutter, Node Js and Mongo DB
+- 💞️ I’m looking to collaborate on Flutter and Dart Projects
+- 📫 How to reach me https://www.linkedin.com/in/ekojode-oma-victor-045093176/
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekojode&show_icons=true&theme=radical)
