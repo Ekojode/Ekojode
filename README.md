@@ -1,3 +1,10 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+![](https://komarev.com/ghpvc/?username=Ekojode&style=flat-square)
+
 - 👋 Hi, I’m @Ekojode 
 - 👀 I’m interested in Mobile application development using flutter and dart
 - 🌱 I’m currently learning Dart, Flutter, Node Js and Mongo DB
@@ -9,7 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekojode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Ekojode&style=flat-square)
 
 <!---
 Ekojode/Ekojode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
