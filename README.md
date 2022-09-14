@@ -6,10 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=Ekojode&style=flat-square)
 
 - 👋 Hi, I’m @Ekojode 
-- 👀 I’m interested in Mobile application development using flutter and dart
-- 🌱 I’m currently learning Dart, Flutter, Node Js and Mongo DB
+- 👀 I’m interested in Front end and Mobile application development using flutter and dart
+- 🌱 I’m currently learning Dart, Flutter, HTML, CSS, Javascript, React and Next js
 - 💞️ I’m looking to collaborate on Flutter and Dart Projects
-- 📫 How to reach me https://www.linkedin.com/in/ekojode-oma-victor-045093176/
+- 📫 How to reach me https://www.linkedin.com/in/ekojode-oma-victor-045093176/ or via mail ekojodeoma@gmail.com
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekojode&show_icons=true&theme=radical)
